@@ -14,4 +14,4 @@ Then we analyze the Rouge & Blue score and after analyzing the score we will sel
 
 The we take combinations of scoring techniques having the highest score in individual methods which will improve the accuracy of the generated summary.
 
-Then we will apply the optimization algorithm which will improve the sentence score by using heuristic function of cuckoo and TLBO algorithm.
+Then we will apply the optimization algorithm which will improve the sentence score by using heuristic function of TLBO algorithm.
